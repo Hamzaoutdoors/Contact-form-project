@@ -1,13 +1,14 @@
 # cr-contact-form-review
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This is code review practice project.
-
 ## Built With
 
 - HTML5
 - CSS 4
 
+<div align="center" width=50>
+<img src="https://user-images.githubusercontent.com/80895497/147234855-641ffe16-5106-475f-9ec7-f7b99f1d689b.PNG" alt="contact-form"/>
+</div>
 
 ## Getting Started
 
