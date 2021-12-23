@@ -1,65 +1,36 @@
+# cr-contact-form-review
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+This is code review practice project.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML5
+- CSS 4
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+Clone the repo with `git clone https://github.com/Hamzaoutdoors/Contact-form-project.git`
 
-### Setup
+Run `npx hint .` to test for html linting check
 
-### Install
+Run `npx stylelint "**/*.{css,scss}"` to test for css linting check 
 
-### Usage
+## Author
 
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Github: [@Hamzaoutdoors](https://github.com/Hamzaoutdoors)
+- Twitter: [@ellaouzihamza]()
+- Linkedin: [@Hamza Ellaouzi](edin.com/in/hamza-ellaouzi-137a45b8/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Hamzaoutdoors/Contact-form-project/issues).
 
 ## Show your support
 
@@ -68,9 +39,9 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- Inspiration, resources/assets used
 - etc
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+[MIT licensed](./LICENSE).
